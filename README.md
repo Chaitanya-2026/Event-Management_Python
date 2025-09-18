@@ -2,7 +2,7 @@
 A simple Event Management System built with Python and Streamlit. This application allows users to view, add, update, and delete events using a user-friendly interface.
 
 
-🚀 Features:
+## 🚀 Features:
 
 ✔ View all events 📅
 
@@ -16,28 +16,29 @@ A simple Event Management System built with Python and Streamlit. This applicati
 
 
 
-🛠 Tech Stack:
+## 🛠 Tech Stack:
 
-Python 🐍
+Python
 
-Streamlit 🖥
+Streamlit
 
-VS Code 💻
+VS Code
 
-📖 How to Run:
+## 📖 How to Run:
 
 1️⃣ Clone the repository:
-
+```
 git clone: https://github.com/Chaitanya-2026/Event-Management_Python.git
-
+```
 2️⃣ Navigate to the project folder:
-
+```
 cd Event-Management_Python
-
+```
 3️⃣ Install dependencies:
-
+```
 pip install -r requirements.txt
-
+```
 4️⃣ Run the app:
-
+```
 python -m streamlit run app.py
+```
